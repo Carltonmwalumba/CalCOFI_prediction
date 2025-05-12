@@ -1,2 +1,2 @@
 # CalCOFI_prediction
-Predicting the Salinity of the ocean based on various factors
+The project aims at applying data analysis and various machine learning algirothims to oredict the salinity of ocean water based on predetermined factors.
